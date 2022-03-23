@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727259793695",
+    "project_id": "timtab-6bc74",
+    "storage_bucket": "timtab-6bc74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727259793695:android:4266cd098d2b46fca4c82a",
+        "android_client_info": {
+          "package_name": "com.example.timtab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727259793695-3mh2mom7aqp70cr3vead93lsrtb38hkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfT_QQ2ZnzMD6bVyMAaFtGmvjBPJDMDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727259793695-3mh2mom7aqp70cr3vead93lsrtb38hkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
